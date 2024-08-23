@@ -13,7 +13,6 @@ MASK	submodule_name
 00 * * * *	r_windows_redesign
 */15 * * * *	leagueofmemes
 01-10 0 * * *	r_til
-01 * * * *	ingressprimefeedback
 01 * * * *	jenkinsci
 01 * * * *	antimlms
 01 * * * *	azurlane_sub
